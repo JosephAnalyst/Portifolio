@@ -7,7 +7,7 @@ Delivering actionable insights and automated reporting solutions.
 
 ## 📌 About Me
 
-I am a **Computer Science graduate** with over **1 year of hands-on experience** in **Data Analysis and Data Engineering**.  
+I am a Data Analyst | Junior Data Engineer with over **2 yearsof hands-on experience** in **Data Analysis and Data Engineering**.  
 
 During this time, I have:
 - Built and automated ETL pipelines to process and store financial and transactional data
